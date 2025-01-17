@@ -227,12 +227,7 @@ Executing: /lib/systemd/systemd-sysv-install enable zabbix-agent
 
 ![alt text](img/Add_host.png)   
 
-# 6. Проверка работы   
- 
-
-![alt text](img/custom_page.png)   
-
-# 7. Создание дашборда и вывод графиков    
+# 6. Создание дашборда и вывод графиков    
 
 ![alt text](img/Graphs.png)
 
